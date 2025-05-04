@@ -2,6 +2,17 @@
 
 **`Engenheiro de Dados`**
 
+Engenheiro de Dados com sólida experiência em processamento de grandes volumes de dados, integração de sistemas e construção de soluções de Business Intelligence (BI) e Data Warehousing. Atuando na criação de pipelines ETL eficientes, modelagem de dados e integração de múltiplas fontes — sempre com foco em acessibilidade, performance e valor estratégico para o negócio.
+
+Atuo com tecnologias como Spark (Scala), Talend, Kafka (MSK), Python, AWS Lambda, S3 e SQS, desenhando soluções escaláveis, resilientes e de alta performance, tanto em ambientes on-premise quanto em cloud.
+
+🛠️ Áreas de atuação:
+ETL & Processamento de Dados: Talend, Spark, Lambda, Python
+Big Data & Streaming: Kafka/MSK, SQS, integração em tempo real
+Bancos de Dados: Relacionais (PostgreSQL, Oracle, MySQL) e NoSQL (ScyllaDB, Cassandra)
+BI & Visualização: Power BI, Grafana
+Data Warehouse & Governança: Integração de dados, qualidade e acessibilidade
+
 
 ### 🤖 Linguagens e Tecnologias
 
