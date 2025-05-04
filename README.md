@@ -12,7 +12,8 @@ Big Data & Streaming: Kafka/MSK, SQS, integração em tempo real
 Bancos de Dados: Relacionais (PostgreSQL, Oracle, MySQL) e NoSQL (ScyllaDB, Cassandra)
 BI & Visualização: Power BI, Grafana
 Data Warehouse & Governança: Integração de dados, qualidade e acessibilidade
-
+<br/>
+<br/>
 
 <img 
     align="left" 
