@@ -10,7 +10,7 @@
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 50px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" 
 />
 <img 
@@ -18,7 +18,7 @@
     alt="Git" 
     title="Git"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 50px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
@@ -26,7 +26,7 @@
     alt="CSS" 
     title="CSS"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 50px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
 />
 <img 
@@ -42,7 +42,7 @@
     alt="TypeScript"
     title="TypeScript" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 50px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
 <img 
@@ -50,7 +50,7 @@
     alt="React"
     title="React" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 50px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
 <img 
@@ -66,7 +66,7 @@
     alt="Tailwind" 
     title="Tailwind"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 50px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" 
 />
 <img 
@@ -74,7 +74,7 @@
     alt="Bootstrap"
     title="Bootstrap" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 50px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 <img 
@@ -82,7 +82,7 @@
     alt="JQuery" 
     title="JQuery"
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 50px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
 />
 <img 
@@ -90,7 +90,7 @@
     alt="Python" 
     title="Python"
     width="50px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 50px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
