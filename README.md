@@ -11,7 +11,7 @@
     title="scala" 
     width="50px" 
     style="padding-right: 50px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -27,7 +27,7 @@
     title="postgresql"
     width="50px" 
     style="padding-right: 50px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     align="left" 
@@ -35,7 +35,7 @@
     title="cassandra"
     width="50px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original-wordmark.svg"  
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg"  
 />
 <img 
     align="left" 
