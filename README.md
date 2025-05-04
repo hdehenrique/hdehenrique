@@ -103,6 +103,15 @@ Data Warehouse & Governança: Integração de dados, qualidade e acessibilidade
     style="padding-right: 50px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
+<img 
+    align="left" 
+    alt="git" 
+    title="git"
+    width="50px" 
+    style="padding-right: 50px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
+/>
+         
 
 <br/>
 <br/>
