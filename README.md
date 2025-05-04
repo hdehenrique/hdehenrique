@@ -19,8 +19,8 @@ Data Warehouse & Governança: Integração de dados, qualidade e acessibilidade
     align="left" 
     alt="scala"
     title="scala" 
-    width="50px" 
-    style="padding-right: 50px;" 
+    width="60px" 
+    style="padding-right: 60px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original-wordmark.svg" 
 />
 <img 
