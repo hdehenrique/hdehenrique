@@ -14,8 +14,6 @@ BI & Visualização: Power BI, Grafana
 Data Warehouse & Governança: Integração de dados, qualidade e acessibilidade
 
 
-### 🤖 Linguagens e Tecnologias
-
 <img 
     align="left" 
     alt="scala"
