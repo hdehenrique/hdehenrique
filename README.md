@@ -19,8 +19,8 @@ Data Warehouse & Governança: Integração de dados, qualidade e acessibilidade
     align="left" 
     alt="scala"
     title="scala" 
-    width="60px" 
-    style="padding-right: 60px;" 
+    width="50px" 
+    style="padding-right: 50px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original-wordmark.svg" 
 />
 <img 
@@ -44,7 +44,7 @@ Data Warehouse & Governança: Integração de dados, qualidade e acessibilidade
     alt="cassandra" 
     title="cassandra"
     width="50px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 50px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg"  
 />
 <img 
@@ -68,7 +68,7 @@ Data Warehouse & Governança: Integração de dados, qualidade e acessibilidade
     alt="spark" 
     title="spark"
     width="50px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 50px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" 
 />
 <img 
@@ -105,8 +105,8 @@ Data Warehouse & Governança: Integração de dados, qualidade e acessibilidade
 />
 <img 
     align="left" 
-    alt="git" 
-    title="git"
+    alt="grafana" 
+    title="grafana"
     width="50px" 
     style="padding-right: 50px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
