@@ -15,7 +15,8 @@ Throughout my career, I have worked as:
 
 I have strong experience working in **cross-functional, data-focused squads**, participating in requirements gathering and refinement, writing technical specifications, designing flow diagrams and use cases, ensuring tight alignment between business needs and technical solutions.
 
-**🛠️ Tech & tools**
+
+**🛠️ Tech & Tools**
 
 - **Data Platforms & Processing:** Databricks, Spark (Scala/PySpark), Airflow, Talend, AWS Lambda  
 - **Big Data & Streaming:** Kafka/MSK, Kinesis, SQS, real-time and event-driven architectures  
