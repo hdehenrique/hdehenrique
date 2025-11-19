@@ -56,7 +56,7 @@ I have strong experience working in **cross-functional, data-focused squads**, p
     align="left" 
     alt="Apache Hadoop" 
     title="Apache Hadoop"
-    height="55px" 
+    height="65px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg" 
 />
@@ -64,7 +64,7 @@ I have strong experience working in **cross-functional, data-focused squads**, p
     align="left" 
     alt="Apache Kafka" 
     title="Apache Kafka"
-    height="55px" 
+    height="65px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" 
 />
@@ -80,7 +80,7 @@ I have strong experience working in **cross-functional, data-focused squads**, p
     align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL"
-    height="55px" 
+    height="45px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
@@ -120,7 +120,7 @@ I have strong experience working in **cross-functional, data-focused squads**, p
     align="left" 
     alt="Amazon Web Services" 
     title="Amazon Web Services"
-    height="55px" 
+    height="50px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
@@ -128,7 +128,7 @@ I have strong experience working in **cross-functional, data-focused squads**, p
     align="left" 
     alt="Grafana" 
     title="Grafana"
-    height="55px" 
+    height="50px" 
     style="padding-right: 15px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
 />
