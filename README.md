@@ -2,9 +2,7 @@
 
 **`Data & Analytics Engineer`**
 
----
-
-## About me 🇺🇸
+## 
 
 Data & Analytics Engineer with consolidated experience in **Business Intelligence, Big Data and Data Warehousing**. I design and build **end-to-end data platforms**, from ingestion and ETL/ELT pipelines to data modeling and analytics, always focused on **performance, data quality and business value**.
 
