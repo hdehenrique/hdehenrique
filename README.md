@@ -1,4 +1,4 @@
-# Henrique Santos
+## Henrique Ferreira Santos
 
 **`Data & Analytics Engineer`**
 
@@ -27,8 +27,6 @@ I have strong experience working in **cross-functional, data-focused squads**, p
 - **Practices:** Agile (Scrum/Kanban), systems analysis, functional specs, data governance & data quality  
 
 ---
-
-## Tech Stack
 
 <br/>
 
