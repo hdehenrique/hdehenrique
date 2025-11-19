@@ -32,7 +32,7 @@ I have strong experience working in **cross-functional, data-focused squads**, p
     align="left" 
     alt="Python" 
     title="Python"
-    height="60px" 
+    height="50px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -56,7 +56,7 @@ I have strong experience working in **cross-functional, data-focused squads**, p
     align="left" 
     alt="Apache Hadoop" 
     title="Apache Hadoop"
-    height="60px" 
+    height="65px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg" 
 />
@@ -72,7 +72,7 @@ I have strong experience working in **cross-functional, data-focused squads**, p
     align="left" 
     alt="Apache Airflow" 
     title="Apache Airflow"
-    height="60px" 
+    height="65px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" 
 />
@@ -120,7 +120,7 @@ I have strong experience working in **cross-functional, data-focused squads**, p
     align="left" 
     alt="Amazon Web Services" 
     title="Amazon Web Services"
-    height="60px" 
+    height="50px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
@@ -130,7 +130,7 @@ I have strong experience working in **cross-functional, data-focused squads**, p
     title="Grafana"
     height="50px" 
     style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
+    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" />" 
 />
 
 <br/>
