@@ -57,8 +57,6 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
 
 ## Tech Stack
 
-## Tech Stack
-
 <br/>
 
 <img 
@@ -87,14 +85,6 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
 />
 <img 
     align="left" 
-    alt="databricks" 
-    title="Databricks"
-    width="50px" 
-    style="padding-right: 20px;" 
-    src="https://www.svgrepo.com/show/353880/databricks.svg" 
-/>
-<img 
-    align="left" 
     alt="kafka" 
     title="Apache Kafka"
     width="50px" 
@@ -116,6 +106,14 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
     width="50px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg"  
+/>
+<img 
+    align="left" 
+    alt="mongodb" 
+    title="MongoDB"
+    width="50px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -165,10 +163,6 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
 />
-
-<br/>
-<br/>
-
 
 <br/>
 <br/>
