@@ -130,7 +130,7 @@ I have strong experience working in **cross-functional, data-focused squads**, p
     title="Grafana"
     height="50px" 
     style="padding-right: 20px;" 
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" 
 />
 
 <br/>
