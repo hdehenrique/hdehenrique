@@ -14,6 +14,7 @@ Throughout my career, I have worked as:
 - **Lead Data Engineer (Palácio das Ferramentas):** design and implementation of a **Data Warehouse, internal data platform, BI solutions with Power BI and Grafana**, plus technical leadership of the data team  
 
 I have strong experience working in **cross-functional, data-focused squads**, participating in requirements gathering and refinement, writing technical specifications, designing flow diagrams and use cases, ensuring tight alignment between business needs and technical solutions.
+
 ---
 
 <br/>
