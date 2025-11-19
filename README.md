@@ -10,12 +10,13 @@ Data & Analytics Engineer with consolidated experience in **Business Intelligenc
 
 Currently working as an **Analytics Engineer at PicPay**, developing and managing data solutions with **Databricks, Spark (PySpark), Delta Lake, Apache Airflow and AWS**, handling high-volume workloads and mission-critical pipelines.
 
-Over my career, I’ve:
+Throughout my career, I have worked as:
 
-- Built and maintained **scalable, secure and resilient data architectures** (batch and streaming, on-prem and cloud)  
-- Led **Data Engineering** initiatives as Lead Data Engineer, designing **Data Warehouses, BI solutions and internal data platforms** for analytics and reporting  
-- Delivered **large-scale data migrations and ETL projects** with Talend, Oracle, PostgreSQL, ScyllaDB, Cassandra and other heterogeneous sources  
-- Acted as a bridge between **business and technical teams**, translating requirements into robust data products  
+- **Analytics Engineer (PicPay):** end-to-end data solutions on Databricks + AWS, pipelines with Spark/PySpark, Delta Lake, Airflow and integrations with relational and NoSQL databases  
+- **Software Engineering Specialist (Accenture):** large-scale data migrations, ETL with Talend, Big Data applications with Spark + Kafka/MSK, serverless solutions with AWS Lambda and batch/streaming integrations  
+- **Lead Data Engineer (Palácio das Ferramentas):** design and implementation of a **Data Warehouse, internal data platform, BI solutions with Power BI and Grafana**, plus technical leadership of the data team  
+
+I have strong experience working in **cross-functional, data-focused squads**, participating in requirements gathering and refinement, writing technical specifications, designing flow diagrams and use cases, ensuring tight alignment between business needs and technical solutions.
 
 **🛠️ Tech & tools**
 
@@ -31,7 +32,7 @@ Over my career, I’ve:
 
 ## Sobre mim 🇧🇷
 
-Profissional com experiência consolidada em **projetos de Business Intelligence, Big Data e Data Warehousing**. Atuo no desenvolvimento de **pipelines de ETL/ELT, modelagem de dados e integração de múltiplas fontes**, sempre com foco em **desempenho, qualidade da informação e geração de valor para o negócio**.
+Profissional com experiência consolidada em projetos de **Business Intelligence, Big Data e Data Warehousing**, atuando ponta a ponta no ciclo de dados, do desenvolvimento de pipelines de ETL/ELT, modelagem e integração de múltiplas fontes ao desenho de arquiteturas de dados escaláveis, seguras e resilientes. Sempre com foco em performance, qualidade da informação, geração de valor para o negócio e suporte às decisões estratégicas.
 
 Hoje trabalho como **Analytics Engineer no PicPay**, desenvolvendo e gerenciando soluções de dados com **Databricks, Spark/PySpark, Delta Lake, Apache Airflow e AWS**, garantindo pipelines escaláveis, eficientes e confiáveis em cenários de grande volume de dados.
 
