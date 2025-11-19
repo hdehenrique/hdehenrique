@@ -30,31 +30,6 @@ I have strong experience working in **cross-functional, data-focused squads**, p
 
 ---
 
-## Sobre mim 🇧🇷
-
-Profissional com experiência consolidada em projetos de **Business Intelligence, Big Data e Data Warehousing**, atuando ponta a ponta no ciclo de dados, do desenvolvimento de pipelines de ETL/ELT, modelagem e integração de múltiplas fontes ao desenho de arquiteturas de dados escaláveis, seguras e resilientes. Sempre com foco em performance, qualidade da informação, geração de valor para o negócio e suporte às decisões estratégicas.
-
-Hoje trabalho como **Analytics Engineer no PicPay**, desenvolvendo e gerenciando soluções de dados com **Databricks, Spark/PySpark, Delta Lake, Apache Airflow e AWS**, garantindo pipelines escaláveis, eficientes e confiáveis em cenários de grande volume de dados.
-
-Ao longo da carreira, atuei como:
-
-- **Analytics Engineer (PicPay):** soluções de dados fim a fim em Databricks + AWS, pipelines em Spark/PySpark, Delta Lake, Airflow e integrações com bancos relacionais e NoSQL  
-- **Software Engineering Specialist (Accenture):** migrações de dados em larga escala, ETL com Talend, aplicações de Big Data com Spark + Kafka/MSK, soluções serverless com AWS Lambda e integrações batch/streaming  
-- **Lead Data Engineer (Palácio das Ferramentas):** desenho e implementação de **Data Warehouse, plataforma de dados interna, BI com Power BI e Grafana**, além de liderança técnica de time de dados  
-
-Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**, participando de levantamento e detalhamento de requisitos, especificações técnicas, diagramas de fluxo e casos de uso, garantindo alinhamento entre negócio e solução técnica.
-
-**🧰 Stack principal**
-
-- **Plataformas & Processamento:** Databricks, Spark (Scala/PySpark), Airflow, Talend, AWS Lambda  
-- **Big Data & Streaming:** Kafka/MSK, Kinesis, SQS, integrações em tempo real e orientadas a eventos  
-- **Bancos de Dados:** PostgreSQL, Oracle, MySQL, MongoDB, ScyllaDB, Cassandra  
-- **BI & Observabilidade:** Power BI, Grafana  
-- **Linguagens:** Python, Scala, SQL, PL/SQL  
-- **Metodologias:** Ágil (Scrum/Kanban), Análise de Sistemas, Especificações Funcionais, Governança e Qualidade de Dados  
-
----
-
 ## Tech Stack
 
 <br/>
@@ -63,7 +38,7 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
     align="left" 
     alt="Python" 
     title="Python"
-    height="45px" 
+    height="60px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
@@ -71,7 +46,7 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
     align="left" 
     alt="Scala"
     title="Scala" 
-    height="45px" 
+    height="60px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original-wordmark.svg" 
 />
@@ -79,7 +54,7 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
     align="left" 
     alt="Apache Spark" 
     title="Apache Spark"
-    height="45px" 
+    height="60px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" 
 />
@@ -87,7 +62,7 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
     align="left" 
     alt="Apache Hadoop" 
     title="Apache Hadoop"
-    height="45px" 
+    height="60px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg" 
 />
@@ -95,7 +70,7 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
     align="left" 
     alt="Apache Kafka" 
     title="Apache Kafka"
-    height="45px" 
+    height="60px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" 
 />
@@ -103,7 +78,7 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
     align="left" 
     alt="Apache Airflow" 
     title="Apache Airflow"
-    height="45px" 
+    height="60px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" 
 />
@@ -111,7 +86,7 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
     align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL"
-    height="45px" 
+    height="60px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
@@ -119,7 +94,7 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
     align="left" 
     alt="MySQL" 
     title="MySQL"
-    height="45px" 
+    height="60px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
@@ -127,7 +102,7 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
     align="left" 
     alt="Oracle" 
     title="Oracle"
-    height="45px" 
+    height="60px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
@@ -135,7 +110,7 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
     align="left" 
     alt="Cassandra" 
     title="Cassandra"
-    height="45px" 
+    height="60px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg"  
 />
@@ -143,7 +118,7 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
     align="left" 
     alt="MongoDB" 
     title="MongoDB"
-    height="45px" 
+    height="60px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
 />
@@ -151,7 +126,7 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
     align="left" 
     alt="Amazon Web Services" 
     title="Amazon Web Services"
-    height="45px" 
+    height="60px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
@@ -159,12 +134,10 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
     align="left" 
     alt="Grafana" 
     title="Grafana"
-    height="45px" 
+    height="60px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
 />
 
 <br/>
 <br/>
-
-
