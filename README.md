@@ -6,33 +6,51 @@
 
 ## About me 🇺🇸
 
-Data & Analytics Engineer with solid experience in processing large volumes of data, system integration, and building Business Intelligence (BI) and Data Warehouse solutions. I design and maintain end-to-end data platforms, always focused on performance, reliability, accessibility, and strategic business value.
+Data & Analytics Engineer with consolidated experience in **Business Intelligence, Big Data and Data Warehousing**. I design and build **end-to-end data platforms**, from ingestion and ETL/ELT pipelines to data modeling and analytics, always focused on **performance, data quality and business value**.
 
-I work with a modern data stack including Databricks, Spark (Scala/PySpark), Airflow, Talend, Kafka/MSK, Python, and AWS (Lambda, S3, SQS, Kinesis, Glue, Redshift), designing scalable, resilient, and high-performance solutions both on-premise and in the cloud.
+Currently working as an **Analytics Engineer at PicPay**, developing and managing data solutions with **Databricks, Spark (PySpark), Delta Lake, Apache Airflow and AWS**, handling high-volume workloads and mission-critical pipelines.
 
-**🛠️ Areas of expertise**
+Over my career, I’ve:
 
-- **ETL & Data Processing:** Databricks, Spark, PySpark, Airflow, Talend, AWS Lambda, Python  
-- **Big Data & Streaming:** Kafka/MSK, SQS, real-time and event-driven integrations  
+- Built and maintained **scalable, secure and resilient data architectures** (batch and streaming, on-prem and cloud)  
+- Led **Data Engineering** initiatives as Lead Data Engineer, designing **Data Warehouses, BI solutions and internal data platforms** for analytics and reporting  
+- Delivered **large-scale data migrations and ETL projects** with Talend, Oracle, PostgreSQL, ScyllaDB, Cassandra and other heterogeneous sources  
+- Acted as a bridge between **business and technical teams**, translating requirements into robust data products  
+
+**🛠️ Tech & tools**
+
+- **Data Platforms & Processing:** Databricks, Spark (Scala/PySpark), Airflow, Talend, AWS Lambda  
+- **Big Data & Streaming:** Kafka/MSK, Kinesis, SQS, real-time and event-driven architectures  
+- **Cloud & Infra:** AWS (S3, Lambda, Glue, Redshift, Athena, EMR, SQS, SNS, MSK/Kafka)  
 - **Databases:** PostgreSQL, Oracle, MySQL, MongoDB, ScyllaDB, Cassandra  
-- **BI & Visualization:** Power BI, Grafana  
-- **Data Warehouse & Governance:** data integration, data quality, documentation and accessibility of analytical datasets  
+- **BI & Observability:** Power BI, Grafana  
+- **Languages:** Python, Scala, SQL, PL/SQL  
+- **Practices:** Agile (Scrum/Kanban), systems analysis, functional specs, data governance & data quality  
 
 ---
 
 ## Sobre mim 🇧🇷
 
-Engenheiro de Dados & Analytics com experiência sólida em processamento de grandes volumes de dados, integração de sistemas e construção de soluções de Business Intelligence (BI) e Data Warehouse. Atuo no desenho e na manutenção de plataformas de dados de ponta a ponta, sempre focado em performance, confiabilidade, acessibilidade e geração de valor estratégico para o negócio.
+Profissional com experiência consolidada em **projetos de Business Intelligence, Big Data e Data Warehousing**. Atuo no desenvolvimento de **pipelines de ETL/ELT, modelagem de dados e integração de múltiplas fontes**, sempre com foco em **desempenho, qualidade da informação e geração de valor para o negócio**.
 
-Trabalho com um stack moderno de dados como Databricks, Spark (Scala/PySpark), Airflow, Talend, Kafka/MSK, Python e serviços AWS (Lambda, S3, SQS, Kinesis, Glue, Redshift), projetando soluções escaláveis, resilientes e de alta performance, tanto on-premise quanto em nuvem.
+Hoje trabalho como **Analytics Engineer no PicPay**, desenvolvendo e gerenciando soluções de dados com **Databricks, Spark/PySpark, Delta Lake, Apache Airflow e AWS**, garantindo pipelines escaláveis, eficientes e confiáveis em cenários de grande volume de dados.
 
-**🛠️ Áreas de atuação**
+Ao longo da carreira, atuei como:
 
-- **ETL & Processamento de Dados:** Databricks, Spark, PySpark, Airflow, Talend, AWS Lambda, Python  
-- **Big Data & Streaming:** Kafka/MSK, SQS, integrações em tempo real e orientadas a eventos  
+- **Analytics Engineer (PicPay):** soluções de dados fim a fim em Databricks + AWS, pipelines em Spark/PySpark, Delta Lake, Airflow e integrações com bancos relacionais e NoSQL  
+- **Software Engineering Specialist (Accenture):** migrações de dados em larga escala, ETL com Talend, aplicações de Big Data com Spark + Kafka/MSK, soluções serverless com AWS Lambda e integrações batch/streaming  
+- **Lead Data Engineer (Palácio das Ferramentas):** desenho e implementação de **Data Warehouse, plataforma de dados interna, BI com Power BI e Grafana**, além de liderança técnica de time de dados  
+
+Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**, participando de levantamento e detalhamento de requisitos, especificações técnicas, diagramas de fluxo e casos de uso, garantindo alinhamento entre negócio e solução técnica.
+
+**🧰 Stack principal**
+
+- **Plataformas & Processamento:** Databricks, Spark (Scala/PySpark), Airflow, Talend, AWS Lambda  
+- **Big Data & Streaming:** Kafka/MSK, Kinesis, SQS, integrações em tempo real e orientadas a eventos  
 - **Bancos de Dados:** PostgreSQL, Oracle, MySQL, MongoDB, ScyllaDB, Cassandra  
-- **BI & Visualização:** Power BI, Grafana  
-- **Data Warehouse & Governança:** integração de dados, qualidade, documentação e acessibilidade de datasets analíticos  
+- **BI & Observabilidade:** Power BI, Grafana  
+- **Linguagens:** Python, Scala, SQL, PL/SQL  
+- **Metodologias:** Ágil (Scrum/Kanban), Análise de Sistemas, Especificações Funcionais, Governança e Qualidade de Dados  
 
 ---
 
