@@ -59,128 +59,112 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
 
 <br/>
 
-<!-- Linguagens -->
 <img 
     align="left" 
-    alt="python" 
+    alt="Python" 
     title="Python"
-    width="50px" 
+    height="45px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
     align="left" 
-    alt="scala"
+    alt="Scala"
     title="Scala" 
-    width="50px" 
+    height="45px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original-wordmark.svg" 
 />
-
-<!-- Processamento & Big Data -->
 <img 
     align="left" 
-    alt="spark" 
+    alt="Apache Spark" 
     title="Apache Spark"
-    width="50px" 
+    height="45px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="hadoop" 
+    alt="Apache Hadoop" 
     title="Apache Hadoop"
-    width="50px" 
+    height="45px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="kafka" 
+    alt="Apache Kafka" 
     title="Apache Kafka"
-    width="50px" 
+    height="45px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" 
 />
-
-<!-- Orquestração -->
 <img 
     align="left" 
-    alt="airflow" 
+    alt="Apache Airflow" 
     title="Apache Airflow"
-    width="50px" 
+    height="45px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" 
 />
-
-<!-- Bancos de Dados -->
 <img 
     align="left" 
-    alt="postgresql" 
+    alt="PostgreSQL" 
     title="PostgreSQL"
-    width="50px" 
+    height="45px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
 <img 
     align="left" 
-    alt="mysql"
-    title="MySQL" 
-    width="50px" 
+    alt="MySQL" 
+    title="MySQL"
+    height="45px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="oracle"
-    title="Oracle" 
-    width="50px" 
+    alt="Oracle" 
+    title="Oracle"
+    height="45px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" 
 />
 <img 
     align="left" 
-    alt="cassandra" 
+    alt="Cassandra" 
     title="Cassandra"
-    width="50px" 
+    height="45px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg"  
 />
 <img 
     align="left" 
-    alt="mongodb" 
+    alt="MongoDB" 
     title="MongoDB"
-    width="50px" 
+    height="45px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
 />
-
-<!-- Cloud, Observabilidade & Versionamento -->
 <img 
     align="left" 
-    alt="aws"
-    title="Amazon Web Services" 
-    width="50px" 
+    alt="Amazon Web Services" 
+    title="Amazon Web Services"
+    height="45px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 <img 
     align="left" 
-    alt="grafana" 
+    alt="Grafana" 
     title="Grafana"
-    width="50px" 
+    height="45px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="git" 
-    title="GitHub"
-    width="50px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 
 <br/>
 <br/>
+
 
