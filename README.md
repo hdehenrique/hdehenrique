@@ -59,14 +59,7 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
 
 <br/>
 
-<img 
-    align="left" 
-    alt="scala"
-    title="Scala" 
-    width="50px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original-wordmark.svg" 
-/>
+<!-- Linguagens -->
 <img 
     align="left" 
     alt="python" 
@@ -77,11 +70,29 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
 />
 <img 
     align="left" 
+    alt="scala"
+    title="Scala" 
+    width="50px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scala/scala-original-wordmark.svg" 
+/>
+
+<!-- Processamento & Big Data -->
+<img 
+    align="left" 
     alt="spark" 
     title="Apache Spark"
     width="50px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="hadoop" 
+    title="Apache Hadoop"
+    width="50px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -91,6 +102,18 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" 
 />
+
+<!-- Orquestração -->
+<img 
+    align="left" 
+    alt="airflow" 
+    title="Apache Airflow"
+    width="50px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" 
+/>
+
+<!-- Bancos de Dados -->
 <img 
     align="left" 
     alt="postgresql" 
@@ -98,22 +121,6 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
     width="50px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="cassandra" 
-    title="Cassandra"
-    width="50px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg"  
-/>
-<img 
-    align="left" 
-    alt="mongodb" 
-    title="MongoDB"
-    width="50px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -133,27 +140,29 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
 />
 <img 
     align="left" 
+    alt="cassandra" 
+    title="Cassandra"
+    width="50px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original.svg"  
+/>
+<img 
+    align="left" 
+    alt="mongodb" 
+    title="MongoDB"
+    width="50px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
+/>
+
+<!-- Cloud, Observabilidade & Versionamento -->
+<img 
+    align="left" 
     alt="aws"
     title="Amazon Web Services" 
     width="50px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="gcp" 
-    title="Google Cloud Platform"
-    width="50px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="git" 
-    title="GitHub"
-    width="50px" 
-    style="padding-right: 20px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
 />
 <img 
     align="left" 
@@ -163,6 +172,15 @@ Tenho forte atuação em **trabalho colaborativo com squads multidisciplinares**
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
 />
+<img 
+    align="left" 
+    alt="git" 
+    title="GitHub"
+    width="50px" 
+    style="padding-right: 20px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
 
 <br/>
 <br/>
+
