@@ -15,8 +15,6 @@ Throughout my career, I have worked as:
 
 I have strong experience working in **cross-functional, data-focused squads**, participating in requirements gathering and refinement, writing technical specifications, designing flow diagrams and use cases, ensuring tight alignment between business needs and technical solutions.
 
----
-
 <br/>
 
 **🛠️ Tech & Tools**
