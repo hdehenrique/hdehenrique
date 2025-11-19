@@ -2,7 +2,6 @@
 
 **`Data & Analytics Engineer`**
 
-## 
 
 Data & Analytics Engineer with consolidated experience in **Business Intelligence, Big Data and Data Warehousing**. I design and build **end-to-end data platforms**, from ingestion and ETL/ELT pipelines to data modeling and analytics, always focused on **performance, data quality and business value**.
 
@@ -26,7 +25,6 @@ I have strong experience working in **cross-functional, data-focused squads**, p
 - **Languages:** Python, Scala, SQL, PL/SQL  
 - **Practices:** Agile (Scrum/Kanban), systems analysis, functional specs, data governance & data quality  
 
----
 
 <br/>
 
@@ -82,7 +80,7 @@ I have strong experience working in **cross-functional, data-focused squads**, p
     align="left" 
     alt="PostgreSQL" 
     title="PostgreSQL"
-    height="60px" 
+    height="50px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
 />
@@ -130,7 +128,7 @@ I have strong experience working in **cross-functional, data-focused squads**, p
     align="left" 
     alt="Grafana" 
     title="Grafana"
-    height="60px" 
+    height="50px" 
     style="padding-right: 20px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" 
 />
