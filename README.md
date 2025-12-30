@@ -3,7 +3,7 @@
 **`Data & Analytics Engineer`**
 
 
-Data & Analytics Engineer with consolidated experience in **Business Intelligence, Big Data and Data Warehousing**. I design and build **end-to-end data platforms**, from ingestion and ETL/ELT pipelines to data modeling and analytics, always focused on **performance, data quality and business value**.
+Data & Analytics Engineer with consolidated experience in **analytics platforms, Big Data and Data Warehousing**. I design and build **end-to-end data platforms**, from ingestion and ETL/ELT pipelines to data modeling and analytics, always focused on **performance, data quality and business value**.
 
 Currently working as an **Analytics Engineer at PicPay**, developing and managing data solutions with **Databricks, Spark (PySpark), Delta Lake, Apache Airflow and AWS**, handling high-volume workloads and mission-critical pipelines.
 
