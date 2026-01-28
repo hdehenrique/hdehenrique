@@ -1,6 +1,6 @@
 ## Henrique Ferreira Santos
 
-**`Data & Analytics Engineer`**
+**`Senior Data & Analytics Engineer | Big Data | Data Platforms`**
 
 
 Data & Analytics Engineer with consolidated experience in **analytics platforms, Big Data and Data Warehousing**. I design and build **end-to-end data platforms**, from ingestion and ETL/ELT pipelines to data modeling and analytics, always focused on **performance, data quality and business value**.
